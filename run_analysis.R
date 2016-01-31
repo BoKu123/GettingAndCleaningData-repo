@@ -136,7 +136,7 @@ run_analysis <- function() {
   selectedData <- selectedData[,c(81,82,1:79)]
   
   # write the data set
-  fileName1<-"MeansAndStdDev.csv"
+  fileName1<-"MeansAndStdDev.txt"
   message("writing to ",fileName1," ...")
   write.table(selectedData,file = fileName1, row.names = FALSE)
   
@@ -151,7 +151,7 @@ run_analysis <- function() {
   tidySummary <- summarize_each(selectedDataGrouped,funs(mean))
   
   # write the second data set
-  fileName2<-"MeansAndStdDevSummary.csv"
+  fileName2<-"MeansAndStdDevSummary.txt"
   message("writing to ",fileName2, " ...")
   write.table(tidySummary,file = fileName2, row.names = FALSE)
   message("done!")
