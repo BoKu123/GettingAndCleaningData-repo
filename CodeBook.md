@@ -21,7 +21,7 @@
  All of the above also applies to to the training datasets but the number of rows is 7352
 
 
-#Output file "MeansAndStdDev.csv" is created by
+#Output file "MeansAndStdDev.txt" is created by
 
  combining rows for "X-train" and "X-test" files. These files contains the recorded measurements
 
@@ -38,7 +38,7 @@
  adding sanitized variable names based on the "features" file 
 
 
-#Output file "MeansAndStdDevSummary.csv" is created from "MeansAndStdDev.csv" by
+#Output file "MeansAndStdDevSummary.txt" is created from "MeansAndStdDev.txt" by
 
  grouping data by Subject and Activity 
 
@@ -46,13 +46,9 @@
 
 #Output files share the same variables listed below:
 
-SubjectID	
+SubjectID - subject for a given row of measurements
 
- Subject ID based on the "subject-train" and "subject-test" files
-
-ActivityName
-
- Activity based on the "subject-train" and "subject-test" files and replaced with a label based on the "activity_labels" file
+ActivityName - activity for a given row of measurements
 
 timeBodyAccMeanX 
 

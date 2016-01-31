@@ -38,6 +38,6 @@
 
 #Output files
 
- "MeansAndStdDev.csv"
+ "MeansAndStdDev.txt"
 
- "MeansAndStdDevSummary.csv"
+ "MeansAndStdDevSummary.txt"
