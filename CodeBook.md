@@ -56,316 +56,216 @@ ActivityName
 
 timeBodyAccMeanX 
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
+timeBodyAccMeanY  
 
-timeBodyAccMeanY	
+timeBodyAccMeanZ  
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
+timeBodyAccStdX  
 
-timeBodyAccMeanZ	
+timeBodyAccStdY  
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
+timeBodyAccStdZ  
 
-timeBodyAccStdX	
+timeGravityAccMeanX 
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
+timeGravityAccMeanY 
 
-timeBodyAccStdY	
+timeGravityAccMeanZ  
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
+timeGravityAccStdX  
 
-timeBodyAccStdZ	
+timeGravityAccStdY  
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
+timeGravityAccStdZ  
 
-timeGravityAccMeanX	
+timeBodyAccJerkMeanX 
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
+timeBodyAccJerkMeanY 
 
-timeGravityAccMeanY	
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
-timeGravityAccMeanZ	
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
-timeGravityAccStdX	
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
-timeGravityAccStdY	
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
-timeGravityAccStdZ	
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
-timeBodyAccJerkMeanX	
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
-timeBodyAccJerkMeanY	
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
-timeBodyAccJerkMeanZ	
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
+timeBodyAccJerkMeanZ 
 
 timeBodyAccJerkStdX	
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
 timeBodyAccJerkStdY	
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
 
 timeBodyAccJerkStdZ	
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
 timeBodyGyroMeanX	
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
 
 timeBodyGyroMeanY
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
 timeBodyGyroMeanZ
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
 
 timeBodyGyroStdX
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
 timeBodyGyroStdY
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
 
 timeBodyGyroStdZ
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
 timeBodyGyroJerkMeanX
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
 
 timeBodyGyroJerkMeanY
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
 timeBodyGyroJerkMeanZ
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
 
 timeBodyGyroJerkStdX
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
 timeBodyGyroJerkStdY
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
 
 timeBodyGyroJerkStdZ
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
 timeBodyAccMagMean
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
 
 timeBodyAccMagStd
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
 timeGravityAccMagMean
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
 
 timeGravityAccMagStd
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
 timeBodyAccJerkMagMean
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
 
 timeBodyAccJerkMagStd
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
 timeBodyGyroMagMean
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
 
 timeBodyGyroMagStd
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
 timeBodyGyroJerkMagMean
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
 
 timeBodyGyroJerkMagStd
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
 freqBodyAccMeanX
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
 
 freqBodyAccMeanY
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
 freqBodyAccMeanZ
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
 
 freqBodyAccStdX
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
 freqBodyAccStdY
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
 
 freqBodyAccStdZ
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
 freqBodyAccMeanFreqX
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
 
 freqBodyAccMeanFreqY
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
 freqBodyAccMeanFreqZ
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
 
 freqBodyAccJerkMeanX
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
 freqBodyAccJerkMeanY
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
 
 freqBodyAccJerkMeanZ
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
 freqBodyAccJerkStdX
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
 
 freqBodyAccJerkStdY
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
 freqBodyAccJerkStdZ
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
 
 freqBodyAccJerkMeanFreqX
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
 freqBodyAccJerkMeanFreqY
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
 
 freqBodyAccJerkMeanFreqZ
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
 freqBodyGyroMeanX
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
 
 freqBodyGyroMeanY
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
 freqBodyGyroMeanZ
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
 
 freqBodyGyroStdX
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
 freqBodyGyroStdY
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
 
 freqBodyGyroStdZ
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
 freqBodyGyroMeanFreqX
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
 
 freqBodyGyroMeanFreqY
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
 freqBodyGyroMeanFreqZ
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
 
 freqBodyAccMagMean
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
 freqBodyAccMagStd
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
 
 freqBodyAccMagMeanFreq
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
 freqBodyBodyAccJerkMagMean
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
 
 freqBodyBodyAccJerkMagStd
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
 freqBodyBodyAccJerkMagMeanFreq
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
 
 freqBodyBodyGyroMagMean
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
 freqBodyBodyGyroMagStd
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
 
 freqBodyBodyGyroMagMeanFreq
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
-
 freqBodyBodyGyroJerkMagMean
-
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
 
 freqBodyBodyGyroJerkMagStd
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
+freqBodyBodyGyroJerkMagMeanFreq 
 
-freqBodyBodyGyroJerkMagMeanFreq
 
- Mean and std columns of the "X-train" and "X-test" files described in the "features" file
+# Column description from the original web site "http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones"
+
+The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz. Then they were filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise. Similarly, the acceleration signal was then separated into body and gravity acceleration signals (tBodyAcc-XYZ and tGravityAcc-XYZ) using another low pass Butterworth filter with a corner frequency of 0.3 Hz. 
+
+Subsequently, the body linear acceleration and angular velocity were derived in time to obtain Jerk signals (tBodyAccJerk-XYZ and tBodyGyroJerk-XYZ). Also the magnitude of these three-dimensional signals were calculated using the Euclidean norm (tBodyAccMag, tGravityAccMag, tBodyAccJerkMag, tBodyGyroMag, tBodyGyroJerkMag). 
+
+Finally a Fast Fourier Transform (FFT) was applied to some of these signals producing fBodyAcc-XYZ, fBodyAccJerk-XYZ, fBodyGyro-XYZ, fBodyAccJerkMag, fBodyGyroMag, fBodyGyroJerkMag. (Note the 'f' to indicate frequency domain signals). 
+
+These signals were used to estimate variables of the feature vector for each pattern:  
+'-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
+
+tBodyAcc-XYZ
+tGravityAcc-XYZ
+tBodyAccJerk-XYZ
+tBodyGyro-XYZ
+tBodyGyroJerk-XYZ
+tBodyAccMag
+tGravityAccMag
+tBodyAccJerkMag
+tBodyGyroMag
+tBodyGyroJerkMag
+fBodyAcc-XYZ
+fBodyAccJerk-XYZ
+fBodyGyro-XYZ
+fBodyAccMag
+fBodyAccJerkMag
+fBodyGyroMag
+fBodyGyroJerkMag
+
+The set of variables that were estimated from these signals are: 
+
+mean(): Mean value
+std(): Standard deviation
+mad(): Median absolute deviation 
+max(): Largest value in array
+min(): Smallest value in array
+sma(): Signal magnitude area
+energy(): Energy measure. Sum of the squares divided by the number of values. 
+iqr(): Interquartile range 
+entropy(): Signal entropy
+arCoeff(): Autorregresion coefficients with Burg order equal to 4
+correlation(): correlation coefficient between two signals
+maxInds(): index of the frequency component with largest magnitude
+meanFreq(): Weighted average of the frequency components to obtain a mean frequency
+skewness(): skewness of the frequency domain signal 
+kurtosis(): kurtosis of the frequency domain signal 
+bandsEnergy(): Energy of a frequency interval within the 64 bins of the FFT of each window.
+angle(): Angle between to vectors.
+
+Additional vectors obtained by averaging the signals in a signal window sample. These are used on the angle() variable:
+
+gravityMean
+tBodyAccMean
+tBodyAccJerkMean
+tBodyGyroMean
+tBodyGyroJerkMean
